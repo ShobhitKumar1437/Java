@@ -1,5 +1,3 @@
-package Access_Modifiers;
-
 class rectangle{
     private int length;
     private int breadth;

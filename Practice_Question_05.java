@@ -1,4 +1,3 @@
-package Access_Modifiers;
 class shape{
     private int radius;
 
@@ -18,6 +17,7 @@ public class Practice_Question_05 {
         shape s = new shape();
         s.setRadius(4);
         int s1 = s.getRadius();
+        System.out.println(s1);
         System.out.println(s.Shape());
 
     }

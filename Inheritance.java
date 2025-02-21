@@ -1,4 +1,4 @@
-package Inhritance;
+
 class Base{
     public int x;
 

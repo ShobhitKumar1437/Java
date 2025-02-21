@@ -1,5 +1,3 @@
-package Methods;
-
 public class Practice_Ch_07 {
     //Question no.1
 

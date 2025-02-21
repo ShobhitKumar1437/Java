@@ -1,4 +1,4 @@
-package Inhritance;
+
 class Phone{
     public void greet(){
         System.out.println("Good Morning");
@@ -22,5 +22,6 @@ public class Dynamic_method_dispatch {
 //        SmartPhone obj2 = new Phone();  // Not Allowed
         obj.greet();
         obj.on();
+       soj.on();
     }
 }

@@ -1,34 +1,33 @@
-public class for_loop {
+
+
+public class For_Loop {
     public static void main(String[] args) {
-        // Print Square pattern
-        // for(int i=1; i<=4; i++){
-        //     System.out.println("****");
-        // }
+//        for (int i = 1; i<=10; i++){
+//            System.out.println(i);
+//        }
 
+        // Quick Quig
 
+        // 2n = Even Number = 0,2,4,6,8,10
+        // 2n+1 = Odd Number = 1,3,5,7,9,11
 
-        // Print reverse of A number
-        // int n = 99801;
-        // while(n>0){
-        //     int lastDigit = n % 10;
-        //     System.out.print(lastDigit);
-        //     n = n/10; // n/=10;
-        //}
+//        int n = 15;
+//        for(int i = 0; i<n; i++){
+//            System.out.println(2*i+1);
+//        }
 
+        // Decrement for loop
 
+       // for(int i =5; i!=0; i--){
+        //  decrement loop me ya to yhi line lga sakte hai ya is ke just upper wali   for(int i =5; i<=0; i--){
+       //      System.out.println(i);
+     //  }
 
-        // Print reverse the Given number 
-        int n = 10899;
-        int rev = 0;
-        while(n>0){
-            int lastDigit = n % 10;
-            rev = (rev*10)+lastDigit;
-            n=n/10;
+        // Quick quig
+        int n = 15;
+        for(int s =n; s!=0; s--){
+            System.out.println(s);
         }
-        System.out.print(rev);
+
     }
 }
-
-
-
-

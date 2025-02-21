@@ -1,5 +1,3 @@
-package Methods;
-
 public class Methods {
     static int logic(int x, int y){
         int z;
@@ -37,12 +35,15 @@ public class Methods {
 
         int f=15;
         int g = 7;
+        int g3;
+        g3 = mySum(f, g);
         int h;
         h = mySum(a, b);
         int f1 = 2;
         int g1 = 1;
         int h1;
         h1 = mySum(f1, g1);
+        System.out.println(g3);
         System.out.println(h);
         System.out.println(h1);
     }

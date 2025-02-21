@@ -1,4 +1,3 @@
-package Abstract;
 class Monkey{
     void jump(){
         System.out.println("Jumping...");
@@ -34,5 +33,6 @@ public class Practice__3 {
         // Question 5
 
         Monkey mo = new Human();
+        mo.bite();
     }
 }

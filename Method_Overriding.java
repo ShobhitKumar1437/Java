@@ -1,4 +1,4 @@
-package Inhritance;
+
    class A {
        public int a;
        public int harry() {

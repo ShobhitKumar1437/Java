@@ -1,4 +1,3 @@
-package Abstract;
 interface MyCamera2{
     void takeSnap();
     void recordVideo();

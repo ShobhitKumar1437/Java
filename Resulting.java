@@ -1,5 +1,3 @@
-package Operators;
-
 public class Resulting {
     public static void main(String[] args) {
         byte x = 6;
@@ -16,6 +14,8 @@ public class Resulting {
         int c = ++j;  // First j is increment then c is assigned j is (68)
         System.out.println(i++);
         System.out.println(i);
+        System.out.println(b);
+        System.out.println(c);
         System.out.println(++i);
         System.out.println(i);
         int y1 = 7;

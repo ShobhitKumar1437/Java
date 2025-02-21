@@ -1,4 +1,3 @@
-package OOps;
 class Employee{
     int id;
     int salary;
@@ -30,6 +29,6 @@ public class Custom_class {
         System.out.println(shobhit.salary);
         System.out.println(suryansh.name);
         System.out.println(suryansh.id);
-        System.out.println(suransh.salary);
+        System.out.println(suryansh.salary);
     }
 }

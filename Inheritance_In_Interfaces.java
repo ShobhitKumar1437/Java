@@ -1,4 +1,3 @@
-package Abstract;
 
 interface sampleInterface{
     void meth1();

@@ -1,4 +1,3 @@
-package Inhritance;
     class EkClass{
         int a;
 

@@ -1,4 +1,4 @@
-package Conditionals;
+
 
 import java.util.Scanner;
 
@@ -61,7 +61,7 @@ public class Conditionls {
         if (age_1<2) {
             System.out.println("tou are baby!");
         }
-
+        sc.close();
 
 
 
@@ -80,5 +80,6 @@ public class Conditionls {
             case 60 -> System.out.println("You are going to get retired!");
             default -> System.out.println("Enjoy your life!");
         }
+        sca.close();
     }
 }

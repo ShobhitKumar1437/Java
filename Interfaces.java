@@ -1,4 +1,3 @@
-package Abstract;
 interface Bicycle{
     int a = 4;
     void applyBreak(int decrement);
@@ -9,6 +8,7 @@ interface HarryBicycle{
     void blowHornmhn();
 }
 class AvonCycle implements Bicycle, HarryBicycle{
+    int a = 4;
     void blowHorn() {
         System.out.println("Pee Pee Poo Poo");
     }

@@ -1,4 +1,4 @@
-package OOps;
+
             //Question no.1
 //class Employee1{
 //    int salary;

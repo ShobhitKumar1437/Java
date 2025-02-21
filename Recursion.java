@@ -1,5 +1,3 @@
-package Methods;
-
 public class Recursion {
     // factorial(0) = 1
     // factorial(n) = n * n-1 *....1

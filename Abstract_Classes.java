@@ -1,5 +1,3 @@
-package Abstract;
-
 abstract class Parent2{
     public Parent2(){
         System.out.println("Mai parent2 ka constructor hu");
@@ -28,7 +26,7 @@ abstract class Child3 extends Parent2 {
 public class Abstract_Classes {
     public static void main(String[] args){
        // Parent2 p = new Parent();  // ---- error throw karen ge
-        Child2 c = new Child2();
+        new Child2();
        // Child3 c3 = new Child3();  // ---- error throw karen ge
     }
 }

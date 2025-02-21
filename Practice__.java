@@ -1,5 +1,3 @@
-package Abstract;
-
 // Question No. 1 and 2
 
 abstract class Pen{
